@@ -1,4 +1,19 @@
-## Beatrix Ranario 👋
+## Beatrix Ranario 
+📍 Philippines • 🎓 4th-Year IT Student  
+📧 beatrixranario@gmail.com
+
+## Professional Summary
+
+An aspiring graphic artist inspired by creativity and visual storytelling. I enjoy transforming concepts into meaningful designs using color, composition, and typography. Always learning and experimenting with new tools, I aim to create visuals that connect, communicate, and inspire.
+
+**Languages:**  
+- JavaScript  
+- Python  
+- PHP  
+
+**Frontend:**  
+- HTML  
+- CSS  
 
 <!--
 **ellevenHershey/ellevenHershey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
