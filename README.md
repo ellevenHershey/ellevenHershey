@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack  
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
