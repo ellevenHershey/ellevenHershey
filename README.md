@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <table width="100%">
 <tr>
 
-<td width="25%"></td>
+<td width="50%"></td>
 
 <td width="50%" align="center" valign="top">
 
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 </td>
 
-<td width="25%"></td>
+<td width="50%"></td>
 
 </tr>
 </table>
