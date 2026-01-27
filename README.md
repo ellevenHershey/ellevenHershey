@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <table width="100%" align="center">
 <tr>
 
-<td width="100%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 💻 Programming  
 <p align="center">
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 </td>
 
-<td width="100%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🎨 Frontend  
 <p align="center">
