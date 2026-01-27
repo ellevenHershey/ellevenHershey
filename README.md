@@ -6,15 +6,6 @@
 
 An aspiring graphic artist inspired by creativity and visual storytelling. I enjoy transforming concepts into meaningful designs using color, composition, and typography. Always learning and experimenting with new tools, I aim to create visuals that connect, communicate, and inspire.
 
-**Languages:**  
-- JavaScript  
-- Python  
-- PHP  
-
-**Frontend:**  
-- HTML  
-- CSS  
-
 <!--
 **ellevenHershey/ellevenHershey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,23 +24,25 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack  
 
-### 💻 Programming Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 💻 Programming  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 
+</td>
+<td valign="top" width="50%">
+
 ### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellevenHershey&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellevenHershey&layout=compact&theme=tokyonight" height="165"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
