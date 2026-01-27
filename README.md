@@ -24,12 +24,18 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack  
 
-<table width="100%" align="center">
+<table width="100%">
 <tr>
+
+<td width="25%"></td>
 
 <td width="50%" align="center" valign="top">
 
-### Programming  
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 💻 Programming  
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"><br>
@@ -40,18 +46,25 @@ Here are some ideas to get you started:
 
 <td width="50%" align="center" valign="top">
 
-### Frontend  
+### 🎨 Frontend  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"><br>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3">
 </p>
 
 </td>
+</tr>
+</table>
+
+</td>
+
+<td width="25%"></td>
 
 </tr>
 </table>
 
 ---
+
 
 ## 🔥 Contribution Activity  
 
