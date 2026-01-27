@@ -29,3 +29,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Programming Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
+### 🎨 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ellevenHershey&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellevenHershey&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🔥 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellevenHershey&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🚀 Currently  
+
+- 🌱 Learning more about **web development & UI design**
+- 🛠️ Improving **JavaScript and backend fundamentals**
+- 🎨 Exploring creative design tools alongside coding
+
+---
+
+## 🤝 Let’s Connect  
+
+- 📧 Email: **beatrixranario@gmail.com**
+- 💼 Open to internships, collaborations, and learning opportunities  
+
+---
+
+⭐ *“Creativity is intelligence having fun.”*  
+Thanks for visiting my profile!
